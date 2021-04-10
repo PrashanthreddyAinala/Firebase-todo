@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+body {
+  text-align: center;
+  margin: 0px;
+  background-color: #f3f4f6;
+}
+
+.header {
+  margin-top: 0px;
+  background-color: #5271b4;
+  font-family: "Bebas Neue", cursive;
+  color: white;
+  padding: 1rem;
+  letter-spacing: 1px;
+  font-size: 3rem;
+}
+
+input {
+  padding: 0.7rem;
+  font-size: 1.2rem;
+}
+
+.defaultbtn {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  margin: 2rem 1rem;
+  background-color: #bfdbfe;
+}
+
+.form {
+  padding-top: 2rem;
+  max-width: 300px;
+  margin: auto;
+}
+
+.card {
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem 0rem;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.card h2 {
+  text-align: left;
+  margin: 0px;
+}
+
+.card p {
+  margin-top: 0.7rem;
+  margin-bottom: 0rem;
+  text-align: left;
+  font-size: 1.3rem;
+  color: #6b7280;
+}
+
+.card-btn {
+  padding-left: 5rem;
+  padding-top: 1rem;
+  text-align: right;
+}
+
+.card button {
+  margin-right: 0.5rem;
+  padding: 0.4rem;
+  font-size: 1rem;
+}
